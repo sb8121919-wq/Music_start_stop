@@ -4,4 +4,4 @@ GitHub Pages setup:
    new.song.mp3.
 3. Open GitHub Pages.
 
-Behavior: pressing the audio Play button starts at 1:00 and automatically stops at 2:00.
+Behavior: pressing the audio Play button starts at 01:11 and automatically stops at 2:00.
